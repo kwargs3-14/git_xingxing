@@ -3,3 +3,4 @@ Git is free software
 add xing
 add xingxing.liu
 Git has a mutable index called stage
+Createing a new branch is quick.
