@@ -6,3 +6,5 @@ Git has a mutable index called stage
 Createing a new branch is quick.
 Createing a new branch is quick and simple.
 what's wrong?
+noning!
+realy?
