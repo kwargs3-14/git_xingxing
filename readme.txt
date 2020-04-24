@@ -9,3 +9,4 @@ what's wrong?
 noning!
 realy?
 vim is realy good!
+and others is bad.
